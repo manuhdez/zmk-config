@@ -1,0 +1,7 @@
+/ {
+    zmk,split-role = "peripheral";
+};
+
+&matrix_transform {
+    col-offset = <6>;
+};
