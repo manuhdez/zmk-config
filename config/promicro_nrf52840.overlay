@@ -1,9 +1,0 @@
-/ {
-    aliases {
-        pro-micro-i2c = &i2c0;
-    };
-};
-
-&i2c0 {
-    status = "okay";
-};

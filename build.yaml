@@ -18,10 +18,10 @@
 #
 ---
 include:
-  - board: promicro_nrf52840
-    shield: corne_left nice_view_adapter nice_view
-  - board: promicro_nrf52840
-    shield: corne_right nice_view_adapter nice_view
-  - board: promicro_nrf52840
+  - board: nice_nano
+    shield: corne_left
+  - board: nice_nano
+    shield: corne_right
+  - board: nice_nano
     shield: settings_reset
 
