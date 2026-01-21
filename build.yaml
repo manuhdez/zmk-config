@@ -18,10 +18,9 @@
 #
 ---
 include:
-  - board: nice_nano
+  - board: pro_micro_nrf52840
     shield: corne_left
-  - board: nice_nano
+  - board: pro_micro_nrf52840
     shield: corne_right
-  - board: nice_nano
+  - board: pro_micro_nrf52840
     shield: settings_reset
-
