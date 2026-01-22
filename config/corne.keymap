@@ -8,8 +8,6 @@
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/keys.h>
 
-#define MASTER_RIGHT
-
 / {
     behaviors {
         esc_on_tab_hold: esc_on_tab_hold {
